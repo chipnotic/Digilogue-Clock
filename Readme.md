@@ -1,4 +1,4 @@
-#Digilogue Clock
+# Digilogue Clock
 
 This is my WLED based "Digilogue" Clock. It uses a 60 LED ring to simulate an analogue style clock.
 
@@ -13,23 +13,23 @@ Filaments 1 and 2 are needed only for the clock face. Lucid black (which is a sm
 
 Filament 3 can be pretty much any solid colour you wish. I would advise against using pale, translucent or white filaments as the light will bleed between segments of the clock face. Darker colours are probably better.
 
-##Clock Styles
+## Clock Styles
 
 The clock can be built as either a desk clock or a wall clock
 
-###Parts needed for both
+### Parts needed for both
 - LED Digilogue-Case-Front.stl (or preconfigered layers with .3mf)
 - LED Digilogue-Case-Rear.stl (or .3mf with painted supports)
 - LED Digilogue-Case-Internal Spacer.stl
 
-###Desk Clock
+### Desk Clock
 - LED Digilogue-Base.stl (or .3mf with painted supports)
 - LED Digilogue-Base-Plug.stl
 
-###Wall Clock
+### Wall Clock
 - LED Digilogue-Blanking Plate.stl
 
-##Electronics
+## Electronics
 
 This project uses my WLED Controller and which can be found at: https://github.com/chipnotic/WLED-Controller
 
