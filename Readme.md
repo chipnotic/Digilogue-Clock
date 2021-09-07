@@ -1,5 +1,7 @@
 # Digilogue Clock
 
+!(/rendered.jpg)
+
 This is my WLED based "Digilogue" Clock. It uses a 60 LED ring to simulate an analogue style clock.
 
 I have included all the STL files but also some 3MF for some parts. These either need supports or have specific layers to change the filament on. These are setup for a Prusa MK3s. The filamanet chages are at layer changes so no need for the MMU, just change when prompted by the printer!
@@ -25,12 +27,14 @@ The clock can be built as either a desk clock or a wall clock
 ### Desk Clock
 - LED Digilogue-Base.stl (or .3mf with painted supports)
 - LED Digilogue-Base-Plug.stl
+!(explode-table.png)
 
 ### Wall Clock
 - LED Digilogue-Blanking Plate.stl
+!(explode-wall.png)
 
 ## Electronics
 
 This project uses my WLED Controller and which can be found at: https://github.com/chipnotic/WLED-Controller
 
-The DC Jack I used can be found on eBay etc and is this [style ](https://www.aliexpress.com/item/4000275300128.html?spm=a2g0o.productlist.0.0.61ed445etkcNXM&algo_pvid=2594685a-8ed4-49d4-aeaf-63f5876b4682&algo_exp_id=2594685a-8ed4-49d4-aeaf-63f5876b4682-10&pdp_ext_f=%7B%22sku_id%22%3A%2210000001116443737%22%7D). The holes are shaped for this particular socket.
+The DC Jack I used can be found on eBay etc and is this [style](https://www.aliexpress.com/item/4000275300128.html?spm=a2g0o.productlist.0.0.61ed445etkcNXM&algo_pvid=2594685a-8ed4-49d4-aeaf-63f5876b4682&algo_exp_id=2594685a-8ed4-49d4-aeaf-63f5876b4682-10&pdp_ext_f=%7B%22sku_id%22%3A%2210000001116443737%22%7D). The holes are shaped for this particular socket.
