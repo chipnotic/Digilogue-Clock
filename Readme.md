@@ -37,4 +37,7 @@ The clock can be built as either a desk clock or a wall clock
 
 This project uses my WLED Controller and which can be found at: https://github.com/chipnotic/WLED-Controller
 
+The LED ring can be found on eBay etc, it is 4 segments of 15 LEDs like [this](https://www.aliexpress.com/item/32825718399.html?spm=a2g0o.productlist.0.0.6ecc4887PZJ7Xc&algo_pvid=0d9c2afe-91a4-42b5-9fa0-5660dd35c118&algo_exp_id=0d9c2afe-91a4-42b5-9fa0-5660dd35c118-1&pdp_ext_f=%7B%22sku_id%22%3A%2264899535414%22%7D)
+
 The DC Jack I used can be found on eBay etc and is this [style](https://www.aliexpress.com/item/4000275300128.html?spm=a2g0o.productlist.0.0.61ed445etkcNXM&algo_pvid=2594685a-8ed4-49d4-aeaf-63f5876b4682&algo_exp_id=2594685a-8ed4-49d4-aeaf-63f5876b4682-10&pdp_ext_f=%7B%22sku_id%22%3A%2210000001116443737%22%7D). The holes are shaped for this particular socket.
+
