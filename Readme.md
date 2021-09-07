@@ -1,6 +1,6 @@
 # Digilogue Clock
 
-!(/rendered.jpg)
+![Rendered Image](rendered.jpg)
 
 This is my WLED based "Digilogue" Clock. It uses a 60 LED ring to simulate an analogue style clock.
 
@@ -27,11 +27,11 @@ The clock can be built as either a desk clock or a wall clock
 ### Desk Clock
 - LED Digilogue-Base.stl (or .3mf with painted supports)
 - LED Digilogue-Base-Plug.stl
-!(explode-table.png)
+![Exploded Desk Clock View](explode-table.png)
 
 ### Wall Clock
 - LED Digilogue-Blanking Plate.stl
-!(explode-wall.png)
+![Exploded Wall Clock View](explode-wall.png)
 
 ## Electronics
 
